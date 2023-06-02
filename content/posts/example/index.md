@@ -8,14 +8,12 @@ image = "gen-z.jpg"
 description = "Wir alle begegnen fast täglich der Gen Z. Besonders andere Generationen können das Denken und Handeln dieser Generation oftmals nicht nachvollziehen. Gen Z ist die erste Generation, welche bereits in ihrer Kindheit mit Medien konfrontiert wurde.\n\n\n\n"
 footnotes = ""
 +++
-## **Definition Gen Z**
-
 {{<lead>}}
 Eine Reportage von Ilona Hapeyenka und Lia Graber.
 
 {{</lead>}}
 
-
+## **Definition Gen Z**
 
 {{<box>}}
 
