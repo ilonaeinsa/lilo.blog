@@ -15,17 +15,21 @@ Eine Reportage von Ilona Hapeyenka und Lia Graber.
 
 {{</lead>}}
 
+
+
 {{<box>}}
 
 Als Generation Z oder Gen Z bezeichnet man alle Personen, die zwischen 1995 und 2010 geboren wurden. Andere Quellen ziehen wiederum die Jahre 1996 oder 2000 als den Start der Generation Z heran – das genaue Start- und Endjahr ist demnach nicht klar definiert. 
 Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfrontiert wird.
 {{</box>}}
 
+
+
 > Wilfried Porth: «Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».  
 
 ## «Typisch Gen Z!»
 
-Die heutige Generation lebt nach dem Motto: «YOLO». Dies heisst so viel wie «you only life once» - «man lebt nur einmal». Dieser Leitspruch ist für die Gen Z eine Art Leitbild. Ihnen ist Freizeit besonders wichtig, weshalb sie sie oftmals über die Karriere stellen. 
+Die heutige Generation lebt nach dem Motto: «YOLO». Dies heisst so viel wie «you only live once» - «man lebt nur einmal». Dieser Leitspruch ist für die Gen Z eine Art Leitbild. Ihnen ist Freizeit besonders wichtig, weshalb sie sie oftmals über die Karriere stellen. 
 Gen Z wurde in ein digitales Zeitalter hineingeboren, sodass heutzutage fast niemand von ihnen ohne Internetverbindung auskommt. Das Smartphone ist für diese Generation ein treuer Begleiter. 
 Laut einer Studie (Generation Z - eine Metastudie (bremen.de) haben Jugendliche im Schnitt eine Bildschirmzeit von 17,8h in der Woche. Durch dieses hohe Medienverhalten wurde bestätigt, dass Gen Z eine geringere Aufmerksamkeitspanne hat, gegenüber anderen Generationen. 
 Doch dieser Konsum von Medien hat auch positive Auswirkungen, denn die Jugendlichen haben eine sehr starke Meinung und sind im Allgemeinen sehr neugierig. Sie sind offen für neue Dinge und wollen sich ein breites Wissensspektrum aufbauen. Auch gesellschaftliche Themen sind dieser Generation besonders wichtig. Sie setzen sich hauptsächlich für Gerechtigkeit und Diversität in der Gesellschaft ein. Trotzdem macht sich bemerkbar, dass das reale Leben zunehmend mit dem digitalen Leben verschmilzt. 
@@ -36,7 +40,7 @@ Nach einer Studie (Deloitte Millennial Survey 2019 | Deloitte Deutschland) von 2
 Man spricht schon lange von Teenagern, die an Depressionen leiden und später Suizid begehen. Menschen unserer Generation werden oft missverstanden. Süchtig nach Smartphone und Selfies, voller Anforderungen, faul und gleichzeitig übertrieben, das ist die Gen Z. Viele denken, die Ursache der Welle psychischer Probleme sei allein die Schuld des Lockdowns. 
 Leider gibt es noch zu wenig Forschung zu den Verhaltensweisen und Wertvorstellungen von Angehörigen der Generation Z in ihrem Alltag. Aus diesem Grund konnten wir darüber nicht so grosszügig recherchieren und deswegen waren wir sehr froh, Interviews durchführen zu dürfen. 
 
-*
+
 
 ## «Anfragen für psychologische Behandlungen steigen.»
 
@@ -52,160 +56,8 @@ Eric Volken ist sehr stolz auf seine Tochter, dies haben wir während unserem Ge
 Als wir ihn auf das Konsumverhalten seiner Tochter ansprachen, hielt er kurz inne. «Meine Tochter raucht», verriet er uns. Eric Volken ist ein Nichtraucher und war nicht sehr erfreut, als er über den Nikotinkonsum seiner Tochter erfahren hatte. «Sie erklärte mir, dass sie aufgrund der Angst vor der Zukunft und dem Gefühl von Hilflosigkeit angefangen habe.» Es sei für seine Tochter eine Art Therapie. «Solange sie ihr Konsumverhalten unter Kontrolle hat, bin ich erleichtert», erklärte und E. Volken. 
 Zum Schluss von unserem Gespräch fragten wir ihn, wie er die Gen Z im Allgemeinen aus seiner Sicht sehe. «Die Jugendlichen haben eine sehr starke Meinung», meinte E. Volken. Er finde, dies sei ein klarer Fortschritt gegenüber den vorderen Generationen. Jedoch habe er Mitleid mit dieser Generation, weil sie vielen Problemen ausgesetzt sei, privat, aber auch gesellschaftlich. 
 
+
+
 ## Zu guter Letzt
 
 Gen Z unterscheidet sich deutlich von anderen Generationen. Durch unsere Arbeit am Projekt haben wir das Denken der Gen Z hinterfragt und somit auch unser Denken. Wir sind sehr dankbar, dass wir über dieses spannende Thema eine Reportage schreiben konnten. Durch das interessante Gespräch mit Regina Hess und Eric Volken konnten wir viele neue und lehrreiche Fakten über die Gen Z erfahren.  Damit erhoffen wir uns, dass unsere Leser als auch andere Generationen uns dadurch besser verstehen können.
-
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
-
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
-
-# Überschrift 1
-
-So sieht die grösste Überschrift aus (H1).
-
-## Überschrift 2
-
-Dies ist die Überschrift 2 (H2).
-
-### Überschrift 3
-
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
-
-#### Überschrift 4
-
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
-
-## Weitere Textformatierungen
-
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
-
-### Fett und Kursiv
-
-Natürlich gibt es auch **fett** und *kursiv*.
-
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> *Autor mit [Link zur Quelle](https://www.lilo.blog)*
-
-Die Quellenangabe muss *kursiv* geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-* Nam de isto magna dissensio est.
-* Mihi, inquam, qui te id ipsum rogavi?
-* Haec et tu ita posuisti, et verba vestra sunt.
-* Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Kinder - und Jugendpsychologin ](regina-hess.png "Regina Hess")
-
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
-- - -
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`\
-Ein Lead steht zwischen zwei solchen Blöcken.\
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`\
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`\
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
