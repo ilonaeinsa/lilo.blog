@@ -5,13 +5,15 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "gen-z.jpg"
-description = "Wir alle begegnen fast täglich der Gen Z. Besonders andere Generationen können das Denken und Handeln dieser Generation oftmals nicht nachvollziehen. Gen Z ist die erste Generation, welche bereits in ihrer Kindheit mit Medien konfrontiert wurde.\n\n\n\n"
+description = "Wir alle begegnen fast täglich der Gen Z. Besonders andere Generationen können das Denken und Handeln dieser Generation oftmals nicht nachvollziehen. Gen Z ist die erste Generation, welche bereits in ihrer Kindheit mit Medien konfrontiert wurde."
 footnotes = ""
 +++
 {{<lead>}}
 Eine Reportage von Ilona Hapeyenka und Lia Graber.
 
 {{</lead>}}
+
+
 
 ## **Definition Gen Z**
 
@@ -20,10 +22,6 @@ Eine Reportage von Ilona Hapeyenka und Lia Graber.
 Als Generation Z oder Gen Z bezeichnet man alle Personen, die zwischen 1995 und 2010 geboren wurden. Andere Quellen ziehen wiederum die Jahre 1996 oder 2000 als den Start der Generation Z heran – das genaue Start- und Endjahr ist demnach nicht klar definiert. 
 Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfrontiert wird.
 {{</box>}}
-
-
-
-> Wilfried Porth: «Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».  
 
 ## «Typisch Gen Z!»
 
@@ -37,6 +35,10 @@ Nach einer Studie (Deloitte Millennial Survey 2019 | Deloitte Deutschland) von 2
 «Die Jugendstudie von 2022 zeigte, dass die Generation Z ihre Zukunftsaussichten gefährdet sieht. Die Covid-19-Krise und der Krieg in der Ukraine beeinträchtigen ihr Sicherheitsgefühl. Die Studie zeigt, dass bei Jugendlichen das Gefühl verbreitet ist, die Kontrolle über das eigene Leben zu verlieren. Bei vielen ist die psychische Belastung gestiegen, fast die Hälfte fühlt sich unter Stress, mehr als jeder Dritte spricht von Antriebslosigkeit. Dazu hat auch der Verlust von Kontakten während der Pandemie beigetragen. Umso mehr sucht Gen Z den Rückhalt oftmals bei der Familie und engen Freunden. Sie sind dankbar, wenn jemand ihre Probleme anhört und ihnen Ratschläge gibt.»\
 Man spricht schon lange von Teenagern, die an Depressionen leiden und später Suizid begehen. Menschen unserer Generation werden oft missverstanden. Süchtig nach Smartphone und Selfies, voller Anforderungen, faul und gleichzeitig übertrieben, das ist die Gen Z. Viele denken, die Ursache der Welle psychischer Probleme sei allein die Schuld des Lockdowns. 
 Leider gibt es noch zu wenig Forschung zu den Verhaltensweisen und Wertvorstellungen von Angehörigen der Generation Z in ihrem Alltag. Aus diesem Grund konnten wir darüber nicht so grosszügig recherchieren und deswegen waren wir sehr froh, Interviews durchführen zu dürfen. 
+
+
+
+> Wilfried Porth: «Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».  
 
 
 
