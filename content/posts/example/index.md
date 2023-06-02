@@ -6,14 +6,12 @@ pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "gen-z.jpg"
 description = "Wir alle begegnen fast täglich der Gen Z. Besonders andere Generationen können das Denken und Handeln dieser Generation oftmals nicht nachvollziehen. Gen Z ist die erste Generation, welche bereits in ihrer Kindheit mit Medien konfrontiert wurde."
-footnotes = ""
+footnotes = "Bild 1: <https://www.psychologie.ch/member/regina-hess>\n\nBild 2: <http://www.psychotherapie-kloeber-obst.de>"
 +++
 {{<lead>}}
 Eine Reportage von Ilona Hapeyenka und Lia Graber.
 
 {{</lead>}}
-
-
 
 {{<box>}}
 
@@ -23,28 +21,22 @@ Als Generation Z oder Gen Z bezeichnet man alle Personen, die zwischen 1995 und 
 Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfrontiert wird.
 {{</box>}}
 
-
-
 > *«Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».*  
-
-*Wilfried Porth*
-
-
+>
+> *Wilfried Porth*
 
 ## «Typisch Gen Z!»
 
 Die heutige Generation lebt nach dem Motto: «YOLO». Dies heisst so viel wie «you only live once» - «man lebt nur einmal». Dieser Leitspruch ist für die Gen Z eine Art Leitbild. Ihnen ist Freizeit besonders wichtig, weshalb sie sie oftmals über die Karriere stellen. 
 Gen Z wurde in ein digitales Zeitalter hineingeboren, sodass heutzutage fast niemand von ihnen ohne Internetverbindung auskommt. Das Smartphone ist für diese Generation ein treuer Begleiter. 
-Laut einer Studie ([bremen.de ) ](bremen.de)haben Jugendliche im Schnitt eine Bildschirmzeit von 17,8h in der Woche. Durch dieses hohe Medienverhalten wurde bestätigt, dass Gen Z eine geringere Aufmerksamkeitspanne hat, gegenüber anderen Generationen. 
+Laut einer Studie (<http://www.sprachenrat.bremen.de/files/aktivitaeten/Generation_Z_Metastudie.pdf>[) ](bremen.de)haben Jugendliche im Schnitt eine Bildschirmzeit von 17,8h in der Woche. Durch dieses hohe Medienverhalten wurde bestätigt, dass Gen Z eine geringere Aufmerksamkeitspanne hat, gegenüber anderen Generationen. 
 Doch dieser Konsum von Medien hat auch positive Auswirkungen, denn die Jugendlichen haben eine sehr starke Meinung und sind im Allgemeinen sehr neugierig. Sie sind offen für neue Dinge und wollen sich ein breites Wissensspektrum aufbauen. Auch gesellschaftliche Themen sind dieser Generation besonders wichtig. Sie setzen sich hauptsächlich für Gerechtigkeit und Diversität in der Gesellschaft ein. Trotzdem macht sich bemerkbar, dass das reale Leben zunehmend mit dem digitalen Leben verschmilzt. 
-Die Gen Z ist einer grossen Informationsflut ausgesetzt, weshalb man sich oft falsch informiert und in die Irre geführt wird. Soziale Medien bereiten der Generation nicht nur Freude, sondern werfen auch grosse Probleme und Schwierigkeiten auf. Die Jugendlichen vergleichen sich häufig mit Models und Influencer*innen. Es führt oftmals auch soweit, dass sie sich mit ihren eigenen Freunden und Bekannten vergleichen. Viele Dinge sind in den Medien oft verfälscht oder bearbeitet, worauf viele reinfallen. Durch die grosse Informationsflut haben die Jugendlichen Mühe sich zu entscheiden. Es gibt zu viele Informationen und zu wenig Zeit. 
+Die Gen Z ist einer grossen Informationsflut ausgesetzt, weshalb man sich oft falsch informiert und in die Irre geführt wird. Soziale Medien bereiten der Generation nicht nur Freude, sondern werfen auch grosse Probleme und Schwierigkeiten auf. Die Jugendlichen vergleichen sich häufig mit Models und Influencerinnen. Es führt oftmals auch soweit, dass sie sich mit ihren eigenen Freunden und Bekannten vergleichen. Viele Dinge sind in den Medien oft verfälscht oder bearbeitet, worauf viele reinfallen. Durch die grosse Informationsflut haben die Jugendlichen Mühe sich zu entscheiden. Es gibt zu viele Informationen und zu wenig Zeit. 
 Die Gen Z blickt weniger optimistisch in die Zukunft als andere Generationen. Dies ist auf viele der oben genannten Gründe zurückzuführen.
-Nach einer Studie (*Deloitte Millennial Survey 2019 | Deloitte Deutschland*) von 2019 wurde aufgezeigt, dass die Gen Z sorgenvoll in die Zukunft blickt. Einerseits bereitet die Klimakrise vielen Jugendlichen Sorgen, anderseits sind es oftmals private und/oder psychische Probleme. 
+Nach einer Studie ([https://www2.deloitte.com/de/de/pages/innovation/contents/millennial-survey-2019.html)](https://www2.deloitte.com/de/de/pages/innovation/contents/millennial-survey-2019.html) von 2019 wurde aufgezeigt, dass die Gen Z sorgenvoll in die Zukunft blickt. Einerseits bereitet die Klimakrise vielen Jugendlichen Sorgen, anderseits sind es oftmals private und/oder psychische Probleme. 
 «Die Jugendstudie von 2022 zeigte, dass die Generation Z ihre Zukunftsaussichten gefährdet sieht. Die Covid-19-Krise und der Krieg in der Ukraine beeinträchtigen ihr Sicherheitsgefühl. Die Studie zeigt, dass bei Jugendlichen das Gefühl verbreitet ist, die Kontrolle über das eigene Leben zu verlieren. Bei vielen ist die psychische Belastung gestiegen, fast die Hälfte fühlt sich unter Stress, mehr als jeder Dritte spricht von Antriebslosigkeit. Dazu hat auch der Verlust von Kontakten während der Pandemie beigetragen. Umso mehr sucht Gen Z den Rückhalt oftmals bei der Familie und engen Freunden. Sie sind dankbar, wenn jemand ihre Probleme anhört und ihnen Ratschläge gibt.»\
 Man spricht schon lange von Teenagern, die an Depressionen leiden und später Suizid begehen. Menschen unserer Generation werden oft missverstanden. Süchtig nach Smartphone und Selfies, voller Anforderungen, faul und gleichzeitig übertrieben, das ist die Gen Z. Viele denken, die Ursache der Welle psychischer Probleme sei allein die Schuld des Lockdowns. 
 Leider gibt es noch zu wenig Forschung zu den Verhaltensweisen und Wertvorstellungen von Angehörigen der Generation Z in ihrem Alltag. Aus diesem Grund konnten wir darüber nicht so grosszügig recherchieren und deswegen waren wir sehr froh, Interviews durchführen zu dürfen. 
-
-
 
 ## «Anfragen für psychologische Behandlungen steigen.»
 
