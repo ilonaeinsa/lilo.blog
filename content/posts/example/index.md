@@ -1,5 +1,5 @@
 +++
-title = "Gen Z - wie sie tickt und warum?"
+title = "Generation Z - wie sie tickt und warum?"
 date = "2023-06-02"
 draft = false
 pinned = false
@@ -15,11 +15,9 @@ Eine Reportage von Ilona Hapeyenka und Lia Graber.
 
 
 
-
+{{<box>}}
 
 ## **Definition Gen Z**
-
-{{<box>}}
 
 Als Generation Z oder Gen Z bezeichnet man alle Personen, die zwischen 1995 und 2010 geboren wurden. Andere Quellen ziehen wiederum die Jahre 1996 oder 2000 als den Start der Generation Z heran – das genaue Start- und Endjahr ist demnach nicht klar definiert. 
 Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfrontiert wird.
@@ -27,7 +25,9 @@ Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfr
 
 
 
+> *«Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».*  
 
+*Wilfried Porth*
 
 
 
@@ -42,28 +42,16 @@ Die Gen Z blickt weniger optimistisch in die Zukunft als andere Generationen. Di
 Nach einer Studie (*Deloitte Millennial Survey 2019 | Deloitte Deutschland*) von 2019 wurde aufgezeigt, dass die Gen Z sorgenvoll in die Zukunft blickt. Einerseits bereitet die Klimakrise vielen Jugendlichen Sorgen, anderseits sind es oftmals private und/oder psychische Probleme. 
 «Die Jugendstudie von 2022 zeigte, dass die Generation Z ihre Zukunftsaussichten gefährdet sieht. Die Covid-19-Krise und der Krieg in der Ukraine beeinträchtigen ihr Sicherheitsgefühl. Die Studie zeigt, dass bei Jugendlichen das Gefühl verbreitet ist, die Kontrolle über das eigene Leben zu verlieren. Bei vielen ist die psychische Belastung gestiegen, fast die Hälfte fühlt sich unter Stress, mehr als jeder Dritte spricht von Antriebslosigkeit. Dazu hat auch der Verlust von Kontakten während der Pandemie beigetragen. Umso mehr sucht Gen Z den Rückhalt oftmals bei der Familie und engen Freunden. Sie sind dankbar, wenn jemand ihre Probleme anhört und ihnen Ratschläge gibt.»\
 Man spricht schon lange von Teenagern, die an Depressionen leiden und später Suizid begehen. Menschen unserer Generation werden oft missverstanden. Süchtig nach Smartphone und Selfies, voller Anforderungen, faul und gleichzeitig übertrieben, das ist die Gen Z. Viele denken, die Ursache der Welle psychischer Probleme sei allein die Schuld des Lockdowns. 
-Leider gibt es noch zu wenig Forschung zu den Verhaltensweisen und Wertvorstellungen von Angehörigen der Generation Z in ihrem Alltag. Aus diesem Grund konnten wir darüber nicht so grosszügig recherchieren und deswegen waren wir sehr froh, Interviews durchführen zu dürfen. 
-
-> Wilfried Porth: «Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».  
-
-
-
-## «Anfragen für psychologische Behandlungen steigen.»
+Leider gibt es noch zu wenig Forschung zu den Verhaltensweisen und Wertvorstellungen von Angehörigen der Generation Z in ihrem Alltag. Aus diesem Grund konnten wir darüber nicht so grosszügig recherchieren und deswegen waren wir sehr froh, Interviews durchführen zu dürfen. «Anfragen für psychologische Behandlungen steigen.»
 
 An einem regnerischen Donnerstag, den 30.03.2023 waren wir sehr erfreut unser Interview durchzuführen. Mit dem Bus fuhren wir in die Lorraine, um pünktlich um 11 Uhr für unser Gespräch einzutreffen. Bereits Wochen vorher haben wir uns spannende und lehrreiche Fragen überlegt. Regina Hess ist eine diplomierte Psychologin, welche sich auf Jugendliche und Kinder mit psychischen Problemen spezialisiert hat. Seit dem Jahr 2022 hat sie ihre eigene Praxis in der Lorraine, wo sie ihre Kund*innen professionell betreuen kann. Aus diesem offenen Gespräch mit ihrer breiten Erfahrung konnten wir viele neue Erkenntnisse über Gen Z machen. Wir sind ihr sehr dankbar für die Zeit, welche sie sich genommen hat.
 
 ![Regina Hess - Kinder - und Jugendpsychologin ](regina-hess.png)
 
-
-
 Besonders herausgestochen in diesem Gespräch ist das Hauptthema psychische Gesundheit. Sie erzählt uns, dass besonders das Verständnis für die psychische Gesundheit viel mehr vorhanden ist als in vorderen Generationen und offener darüber gesprochen wird. Sie denke auch, dass die Pandemie bei vielen der Start ihrer psychischen Probleme war. Die Jugendlichen oder damals noch Kinder litten an fehlenden sozialen Kontakten, trieben zu wenig Sport, waren oftmals überfordert mit ihrem Schulstoff, und so weiter.
 In ihrem Berufsfeld spüre sie deutlich, dass die Anfragen für psychologische Behandlungen steigen. Dies erkläre sie sich einerseits aus den vielen Anforderungen, denen die Jugendlichen gerecht werden müssen, andererseits hat die Digitalisierung sicherlich einen grossen Einfluss. Durch die Digitalisierung stehe man vor einer grossen Informationsflut. Täglich werden die Jugendlichen von Bildern und Videos berieselt. R. Hess sagt: «Heutzutage ist man den aussenstehenden Personen viel näher als früher. In meiner Generation gab es Heftchen. «Heute kennt man diese Personen, dies führt zu einer höheren Beeinflussung.» Aufgrund dieses Druckes und oftmals auch psychischen Krankheiten, greifen Jugendliche vermehrt zu Nikotin, Alkohol oder sonstigen Suchtmittel. R. Hess erklärt aber, dass dies schon immer ein Thema war. Jedoch beginnt der Konsum von Suchtmittel heute oftmals schon im früheren Alter. Ihrer Meinung nach ist es aber wichtig, dass die Jugendlichen ihre Grenzen kennenlernen und sich auch in einem Umfeld befinden mit Gleichaltrigen, d.h. beispielsweise Partys besuchen. Durch die Coronakrise wurde dieser Teil grob eingeschränkt, was aus Hess ihrer Sicht ein Einflussfaktor auf die stark steigenden Anfragen für psychologische Behandlungen sein könnte.
 
-
-
 ![Kinder -  und Jugendpsychologie Praxis Bern ](praxis.png)
-
-
 
 ## «Meine Tochter ist handysüchtig»
 
