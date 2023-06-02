@@ -15,6 +15,8 @@ Eine Reportage von Ilona Hapeyenka und Lia Graber.
 
 
 
+
+
 ## **Definition Gen Z**
 
 {{<box>}}
@@ -22,6 +24,12 @@ Eine Reportage von Ilona Hapeyenka und Lia Graber.
 Als Generation Z oder Gen Z bezeichnet man alle Personen, die zwischen 1995 und 2010 geboren wurden. Andere Quellen ziehen wiederum die Jahre 1996 oder 2000 als den Start der Generation Z heran – das genaue Start- und Endjahr ist demnach nicht klar definiert. 
 Gen Z ist die erste Generation, die seit der Kindheit mit digitalen Medien konfrontiert wird.
 {{</box>}}
+
+
+
+
+
+
 
 ## «Typisch Gen Z!»
 
@@ -36,8 +44,6 @@ Nach einer Studie (Deloitte Millennial Survey 2019 | Deloitte Deutschland) von 2
 Man spricht schon lange von Teenagern, die an Depressionen leiden und später Suizid begehen. Menschen unserer Generation werden oft missverstanden. Süchtig nach Smartphone und Selfies, voller Anforderungen, faul und gleichzeitig übertrieben, das ist die Gen Z. Viele denken, die Ursache der Welle psychischer Probleme sei allein die Schuld des Lockdowns. 
 Leider gibt es noch zu wenig Forschung zu den Verhaltensweisen und Wertvorstellungen von Angehörigen der Generation Z in ihrem Alltag. Aus diesem Grund konnten wir darüber nicht so grosszügig recherchieren und deswegen waren wir sehr froh, Interviews durchführen zu dürfen. 
 
-
-
 > Wilfried Porth: «Selbstverständlich kann man nicht einfach eine ganze Generation über einen Kamm scheren. Aber gewisse Moden und Strömungen gibt es schon, die für eine Altersgruppe zumindest typisch sind».  
 
 
@@ -49,14 +55,18 @@ An einem regnerischen Donnerstag, den 30.03.2023 waren wir sehr erfreut unser In
 Besonders herausgestochen in diesem Gespräch ist das Hauptthema psychische Gesundheit. Sie erzählt uns, dass besonders das Verständnis für die psychische Gesundheit viel mehr vorhanden ist als in vorderen Generationen und offener darüber gesprochen wird. Sie denke auch, dass die Pandemie bei vielen der Start ihrer psychischen Probleme war. Die Jugendlichen oder damals noch Kinder litten an fehlenden sozialen Kontakten, trieben zu wenig Sport, waren oftmals überfordert mit ihrem Schulstoff, und so weiter.
 In ihrem Berufsfeld spüre sie deutlich, dass die Anfragen für psychologische Behandlungen steigen. Dies erkläre sie sich einerseits aus den vielen Anforderungen, denen die Jugendlichen gerecht werden müssen, andererseits hat die Digitalisierung sicherlich einen grossen Einfluss. Durch die Digitalisierung stehe man vor einer grossen Informationsflut. Täglich werden die Jugendlichen von Bildern und Videos berieselt. R. Hess sagt: «Heutzutage ist man den aussenstehenden Personen viel näher als früher. In meiner Generation gab es Heftchen. «Heute kennt man diese Personen, dies führt zu einer höheren Beeinflussung.» Aufgrund dieses Druckes und oftmals auch psychischen Krankheiten, greifen Jugendliche vermehrt zu Nikotin, Alkohol oder sonstigen Suchtmittel. R. Hess erklärt aber, dass dies schon immer ein Thema war. Jedoch beginnt der Konsum von Suchtmittel heute oftmals schon im früheren Alter. Ihrer Meinung nach ist es aber wichtig, dass die Jugendlichen ihre Grenzen kennenlernen und sich auch in einem Umfeld befinden mit Gleichaltrigen, d.h. beispielsweise Partys besuchen. Durch die Coronakrise wurde dieser Teil grob eingeschränkt, was aus Hess ihrer Sicht ein Einflussfaktor auf die stark steigenden Anfragen für psychologische Behandlungen sein könnte.
 
+
+
++
+
+
+
 ## «Meine Tochter ist handysüchtig»
 
 An einem Samstagnachmittag besuchten wir die Stadt Bern, um mit einer betroffenen Person ein Interview durchzuführen. Wir waren auf der Suche nach einer Erwachsenen Person, welche ein Kind hat, welches der Gen Z angehört. Nach mehreren Anläufen fanden wir ein offener, sympathischer Herr. Eric Volken lebt mit seiner Frau und seinen zwei Kinder in der Umgebung Bern. Seine jüngere Tochter, Maelle, ist 16 Jahre alt. Der erste Satz von seiner Seite der fiel, war: «Maelle ist wortwörtlich handysüchtig!». Manchmal habe er das Gefühl, dass sie abwesend sei. «Ich muss immer dreimal rufen, bis ich eine Reaktion von ihr erhalte, da sie am Smartphone ist.» Das Erste und das Letzte vom Tag, das sie anschaue, sei das Smartphone. Es bereite ihm Sorgen, trotzdem sehe er auch viele positive Aspekte. Seine Tochter könne so auch den Kontakt mit ihrer Kollegin aus England beibehalten. E. Volken sagte: «Besonders im Bereich der sozialen Vernetzung sehe ich einen grossen Vorteil des Smartphones.» 
 Eric Volken ist sehr stolz auf seine Tochter, dies haben wir während unserem Gespräch deutlich gespürt. Die 16- jährige Maelle besucht das Gymnasium. Ihr Vater erwähnte, dass sie regelmässig an Klimademonstrationen zu sehen sei. Sie habe einen starken Willen und sei sehr stark von ihrer eigenen Meinung überzeugt. In ihrer Freizeit arbeite sie in einem Café und gibt Nachhilfe, um zusätzlich etwas Geld zu verdienen. «Ich bin sehr beeindruckt, wie selbständig die heutige Jugend ist», sagte Eric Volken. 
 Als wir ihn auf das Konsumverhalten seiner Tochter ansprachen, hielt er kurz inne. «Meine Tochter raucht», verriet er uns. Eric Volken ist ein Nichtraucher und war nicht sehr erfreut, als er über den Nikotinkonsum seiner Tochter erfahren hatte. «Sie erklärte mir, dass sie aufgrund der Angst vor der Zukunft und dem Gefühl von Hilflosigkeit angefangen habe.» Es sei für seine Tochter eine Art Therapie. «Solange sie ihr Konsumverhalten unter Kontrolle hat, bin ich erleichtert», erklärte und E. Volken. 
 Zum Schluss von unserem Gespräch fragten wir ihn, wie er die Gen Z im Allgemeinen aus seiner Sicht sehe. «Die Jugendlichen haben eine sehr starke Meinung», meinte E. Volken. Er finde, dies sei ein klarer Fortschritt gegenüber den vorderen Generationen. Jedoch habe er Mitleid mit dieser Generation, weil sie vielen Problemen ausgesetzt sei, privat, aber auch gesellschaftlich. 
-
-
 
 ## Zu guter Letzt
 
