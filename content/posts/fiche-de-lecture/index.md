@@ -4,6 +4,7 @@ date = "2024-01-11"
 draft = false
 pinned = false
 tags = ["französischauftrag", "donnerstagnachmittag", "balzacetlapetitetailleusechinoise", "loveLuo"]
+image = "https://media.istockphoto.com/id/121565764/de/foto/alte-n%C3%A4hmaschine.jpg?s=612x612&w=0&k=20&c=KDmjr1O5v6K1SFsL-Dz8FVyj4MmOcZyJ1Lj48PdaCtc="
 +++
 <!--StartFragment-->
 
